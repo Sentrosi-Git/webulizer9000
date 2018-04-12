@@ -1,7 +1,6 @@
-A retro-looking shell using CSS and JavaScript
+A web app design to take over the world
 
+Currently uses the Web of trust Api.
 
-Somewhat inspired by PipBoy and old-school UNIX terminals
-
-[See it in action here](http://andersevenrud.github.io/shell/)
+[See it in action here](http://Sentrosi-Git.github.io/webulizer9000/)
 # webulizer9000
